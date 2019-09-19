@@ -10,7 +10,13 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Phone number, Nickname, network carrier, country code, date. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to For a better experience, while using our Service,
+I may require you to provide us with certain
+personally identifiable information, including but not limited to Phone number used to buy and share airtime,
+Network carrier used to identify what network a user is on, Nick name used to in the share feature, Country code use
+to localize services for users in particular countries, date to track what time transactions are happening. The
+information that I request will be
+retained on your device and is not collected by me in any way.e. The information that I request will be retained on your device and is not collected by me in any way.
 
 The app does use third party services that may collect information used to identify you.
 
